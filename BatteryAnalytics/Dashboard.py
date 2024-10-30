@@ -61,4 +61,3 @@ def plot_dataframe_subplots(df, nrows, ncols, figsize):
 st.write("### Trip Data Plots")
 plot_dataframe_subplots(df_master, nrows=12, ncols=4, figsize=(30, 48))
 
-
